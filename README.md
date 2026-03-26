@@ -1,2 +1,8 @@
-Tytuł - Ashes
-Opis - Ashes to gra labirynt, z systemem HP i Armor, z 
+1. Tytuł - Ashes
+   Opis - gra typu labirynt
+   
+2. Technologie - HTML, CANVAS, CSS, JavaScript
+  
+3. Uruchamianie aplikacji w przegladarce
+   
+4. Autorzy - ArtemKali / Toburetko
